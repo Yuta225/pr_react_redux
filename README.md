@@ -1,8 +1,8 @@
-・Reactのチュートリアル (Done) [参考]()
+・~~Reactのチュートリアル~~ (Done) [参考](https://ja.reactjs.org/tutorial/tutorial.html)
 
-・Reactのチュートリアルをtypescriptに書き換え (Done) [参考]()
+・~~Reactのチュートリアルをtypescriptに書き換え~~ (Done) [参考](https://note.com/tkugimot/n/nf7fe751298b1)
 
-・Reactのチュートリアルをtypescript(hooks ver)に書き換え (Done) [参考]()
+・~~Reactのチュートリアルをtypescript(hooks ver)に書き換え~~ (Done) [参考](https://dragon-taro.com/technology/modern-react-tutorial)
 
 ・reduxでtodoアプリの作成 (In progres) [参考](https://www.webopixel.net/javascript/1598.html)
 
