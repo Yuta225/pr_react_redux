@@ -6,6 +6,8 @@
 
 ・reduxでtodoアプリの作成 (In progress) [参考](https://www.webopixel.net/javascript/1598.html)
 
+・機能追加(To Do(9月中目標))
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
