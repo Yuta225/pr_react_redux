@@ -4,7 +4,7 @@
 
 ・~~Reactのチュートリアルをtypescript(hooks ver)に書き換え~~ (Done) [参考](https://dragon-taro.com/technology/modern-react-tutorial)
 
-・reduxでtodoアプリの作成 (In progres) [参考](https://www.webopixel.net/javascript/1598.html)
+・reduxでtodoアプリの作成 (In progress) [参考](https://www.webopixel.net/javascript/1598.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
